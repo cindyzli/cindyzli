@@ -33,24 +33,13 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
 
-
 ---
 
 ### 📊 **GitHub Stats**  
 
-| 📈 GitHub Stats | 🔥 Streak Stats | 📌 Activity Graph |
-|:--------------:|:--------------:|:--------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindyzli&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cindyzli&theme=react-dark) |
-
----
-
-### 🚀 **My Trending Repos 💻**
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=cindyzli&repo=vite-boilerplate&theme=radical)](https://github.com/cindyzli/vite-boilerplate)
-
----
-
-### 🏆 **GitHub Badges**
-![GitHub Badge](https://img.shields.io/github/followers/cindyzli?label=Followers&style=social)  
+ 🔥 Streak Stats 
+|:--------------:|
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)
 
 ---
 
