@@ -14,7 +14,7 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 
 ### 📞 **Connect with Me**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/cindy-li-569a30187/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/cindy-li-569a30187/))  
 
 ---
 
@@ -40,18 +40,17 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 
 | 📈 GitHub Stats | 🔥 Streak Stats | 📌 Activity Graph |
 |:--------------:|:--------------:|:--------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cindyzli&theme=react-dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindyzli&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cindyzli&theme=react-dark) |
 
 ---
 
 ### 🚀 **My Trending Repos 💻**
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=cindyzli&repo=vite-boilerplate&theme=radical)](https://github.com/yourusername/vite-boilerplate)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=cindyzli&repo=vite-boilerplate&theme=radical)](https://github.com/cindyzli/vite-boilerplate)
 
 ---
 
 ### 🏆 **GitHub Badges**
 ![GitHub Badge](https://img.shields.io/github/followers/cindyzli?label=Followers&style=social)  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=cindyzli.cindyzli)
 
 ---
 
