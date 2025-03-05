@@ -47,12 +47,7 @@ Outside of CS, I enjoy climbing & playing guitar ~ Feel free to reach out or che
 
 ---
 
-### 🎯 **My Hobbies**  
-- 🧗‍♂️ Rock Climbing  
-- 🎸 Playing Guitar  
-- 🎹 Playing Piano  
-- 🍳 Cooking  
-- 📖 Journaling  
-- 🏃‍♂️ Running
+You made it so far, may as well try out my music taste :D
+[Listen on Spotify](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz?si=8345ff120b034b30)
 
 
