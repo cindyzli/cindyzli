@@ -14,7 +14,7 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 
 ### 📞 **Connect with Me**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/cindy-li-569a30187/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-li-569a30187/)
 
 ---
 
@@ -45,7 +45,6 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
  🔥 Stats 
 |:--------------:|
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyzli&layout=compact&theme=radical)](https://github.com/cindyzli/)
 
 ---
 
