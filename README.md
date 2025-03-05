@@ -41,9 +41,13 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 
 ### 📊 **GitHub Stats**  
 
- 🔥 Stats 
+| 🔥 GitHub Streak |
 |:--------------:|
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)  
+
+### 🏆 **Total Lines of Code**
+![Lines of Code](https://komarev.com/ghpvc/?username=cindyzli&color=blue&label=Total%20Lines%20of%20Code)
+
 
 ---
 
