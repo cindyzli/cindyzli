@@ -7,8 +7,8 @@
 
 I'm a **Tech Enthusiast** passionate about coding and learning new technologies.  
 
-🌱 I’m currently learning **C**  
-🔭 I’m currently working on **an automatic RL based trading bot!**  
+🌱 I’m recently interested in **computer vision and machine learning!**  
+🔭 I’m currently working on **an automatic RL on options based trading bot** 
 
 ---
 
@@ -18,7 +18,7 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 
 ---
 
-#### 🖥️ **Languages & Frameworks**  
+#### 🖥️ **Languages, Frameworks, and Tools**  
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
@@ -36,7 +36,6 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 </p>
-
 
 ---
 
