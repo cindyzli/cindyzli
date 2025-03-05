@@ -3,7 +3,7 @@
 </h1>
 
 ## 👋 Hi there, I'm Cindy :)
-> **"Enjoying life~"** 
+> **i'm having a blast** 
 
 I'm a **Tech Enthusiast** passionate about coding and learning new technologies.  
 
