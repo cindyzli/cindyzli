@@ -19,27 +19,33 @@ I'm a **Tech Enthusiast** passionate about coding and learning new technologies.
 ---
 
 #### 🖥️ **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)  
-![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)  
 
-#### ⚛️ **Frontend & Backend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white">
+  <img src="https://img.shields.io/badge/-OCaml-EC6813?style=flat&logo=ocaml&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+</p>
+
 
 ---
 
 ### 📊 **GitHub Stats**  
 
- 🔥 Streak Stats 
+ 🔥 Stats 
 |:--------------:|
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyzli&layout=compact&theme=radical)](https://github.com/cindyzli/)
 
 ---
 
