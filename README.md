@@ -38,11 +38,6 @@ Outside of CS, I enjoy climbing & playing guitar ~ Feel free to reach out or che
 
 ---
 
-### 📊 **GitHub Stats**  
-
-| 🔥 GitHub Streak |
-|:--------------:|
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cindyzli&theme=radical)  
 
 
 
