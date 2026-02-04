@@ -5,9 +5,9 @@
 ## 👋 Hi there, I'm Cindy :)
 > **i'm having a blast** 
 
-I'm an undergrad student studying comp sci at Cornell! I'm currently tech leading an RL based automatic trading bot project on options, working with Millennium on trading strategy research, and working on a matching algorithm for 5,000+ Cornell students. This summer I'll be working at Adobe in SF as a software engineering intern! Recently, I've had a growing interest in machine learning, optimization problems, and computer vision (my last two hackathon projects used CV!)
+I'm an undergrad student studying comp sci at Cornell! I'm currently on co-op working at Rippling as a Software Engineering Intern on the AI Platforms team. On the side, I'm also building a scalable multimodal dataset and alignment pipeline for music understanding. Hackathon fanatic and enjoy building with a purpose. Currently looking for hackathons with Switch 2s as prizes, so feel free to reach out if you see one.
 
-Outside of CS, I enjoy climbing & playing guitar ~ Feel free to reach out or check out any of my projects :P
+Outside of CS, I enjoy climbing and going to the gym. Trying to become a v5 climber...
 
 ---
 
