@@ -5,7 +5,7 @@
 ## 👋 Hi there, I'm Cindy :)
 > **i'm having a blast** 
 
-I'm an undergrad student studying comp sci at Cornell! I'm currently on co-op working at Rippling as a Software Engineering Intern on the AI Platforms team. Hackathon fanatic and enjoy building with a purpose. Currently looking for hackathons with Switch 2s as prizes, so feel free to reach out if you see one.
+I'm an undergrad student studying comp sci at Cornell! I'm currently on co-op working at Google as a Software Engineering Intern on the Gmail backend team. 
 
 Outside of CS, I enjoy climbing and going to the gym. Trying to become a v5 climber...
 
